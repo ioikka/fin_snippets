@@ -14,7 +14,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * 
+ * Reads XML SOAP response, parses it, saves payments to files, adding suffix (suffix = SupplierBillId)
  * @author ioikka
  */
 public class GG {
